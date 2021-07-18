@@ -10,3 +10,5 @@ Brackeys Game Jam 2021.1 ->  https://lexingto.itch.io/dog-finder
 Mini Jam 80 -> https://lexingto.itch.io/cat-bit-adventure
 
 GMTK 2021 -> https://lexingto.itch.io/ted-and-rosie
+
+GJL Game Parade Summer 2021 -> https://lexingto.itch.io/viable
