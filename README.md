@@ -1,5 +1,5 @@
 # All-Jam-Games
-A Collection of all Jams I have took part In with the associated games from most recent to oldest
+A Collection of all Jams I have took part In with the associated games from most oldest to mos t recent, descending order
 
 Make A Level (MAY DAY 2021) -> https://lexingto.itch.io/mothers-day-escapade
 
