@@ -11,4 +11,4 @@ Mini Jam 80 -> https://lexingto.itch.io/cat-bit-adventure
 
 GMTK 2021 -> https://lexingto.itch.io/ted-and-rosie
 
-GJL Game Parade Summer 2021 -> https://lexingto.itch.io/viable
+GJL Game Parade Summer 2021 -> https://lexingto.itch.io/viable (featured here https://www.youtube.com/watch?v=vpWqiLjZDbE 1:06)
