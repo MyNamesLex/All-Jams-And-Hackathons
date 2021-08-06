@@ -3,7 +3,6 @@ A Collection of all Jams I have took part In with the associated games:
 
 
 Oldest
-_________________________________________________________________________________________________________________________________________________________________________
 
 Brackeys Game Jam 2021.1 ->  https://lexingto.itch.io/dog-finder
 
@@ -18,3 +17,4 @@ GMTK 2021 -> https://lexingto.itch.io/ted-and-rosie
 GJL Game Parade Summer 2021 -> https://lexingto.itch.io/viable (featured here https://www.youtube.com/watch?v=vpWqiLjZDbE 1:06)
 
 Most Recent
+_________________________________________________________________________________________________________________________________________________________________________
