@@ -37,13 +37,13 @@ ________________________________________________________________________________
 
 GJL Game Parade Summer 2021 -> https://lexingto.itch.io/viable
 
-This is one of the better games I have made and it was featured here (https://www.youtube.com/watch?v=vpWqiLjZDbE (1:06)) I learnt what is successful in game jams which I believe at the time of writing this is to be fun and engaging gameplay loops, which is what I went into this game jam wanting to try out and I am tailoring my games to be primarily a fun and engaging gameplay loop which can be played for an extended period of time
+This is one of the better games I have made and it was featured here (https://www.youtube.com/watch?v=vpWqiLjZDbE (1:06)) I learnt what is successful in game jams which I believe at the time of writing this is to be fun and engaging gameplay loops, which is what I went into this game jam wanting to try out and I am tailoring my games to be primarily a fun and engaging gameplay loop which can be played for an extended period of time.
 
 _________________________________________________________________________________________________________________________________________________________________________
 
 Trijam #133: The 3 hour game jam -> https://lexingto.itch.io/keep-it-up
 
-This was not one of my best games I have made, this was my first 3 hour game jam and I severly overestimated what I could do in 3 hours and learnt what I can and can not do in such a short amount of time
+This was not one of the best games I have made, this was my first 3 hour game jam and I severly overestimated what I could do in 3 hours and learnt what I can and can not do in such a short amount of time, due to me overestimating how much I can do it resulted in a lack of content for the player to play and a clumsy look to the game.
 
 _________________________________________________________________________________________________________________________________________________________________________
 
