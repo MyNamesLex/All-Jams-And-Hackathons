@@ -31,7 +31,7 @@ Trijam #133: The 3 hour game jam -> https://lexingto.itch.io/keep-it-up (This wa
 
 _________________________________________________________________________________________________________________________________________________________________________
 
-(COLLAB) Low Effort Jam #13 -> https://lexingto.itch.io/delivery-driver (the person I was working with on this was doing the programming, because I wanted to better and practice my 3D modelling and audio abilities. had some issues he had to deal with in real life so I had to do the majority of the programming too when I was not expecting to have to do them so it was a bit thrown together last second and I could not refine it as much as I wanted to)
+(COLLAB) Low Effort Jam #13 -> https://lexingto.itch.io/delivery-driver (We treated this as a 48 hour game jam as that fitted our schedules the best and the person I was working with on this was doing the programming, because I wanted to better and practice my 3D modelling and audio abilities. He had some issues he had to deal with in real life which he didn't tell me about until after the game jam ended and never replied to my messages when it happened so I had to do the majority of the programming  when I was not expecting too so it was thrown together last second and I could not refine it as much as I wanted to)
 
 _________________________________________________________________________________________________________________________________________________________________________
 
