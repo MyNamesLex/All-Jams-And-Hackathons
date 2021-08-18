@@ -26,7 +26,7 @@ ________________________________________________________________________________
 
 GJL Game Parade Summer 2021 -> https://lexingto.itch.io/viable
 
-This is one of the better games I have made and it was featured here https://www.youtube.com/watch?v=vpWqiLjZDbE (1:06) I learnt what is successful in game jams which I believe at the time of writing this is to be fun and engaging gameplay loops, which is what I went into this game jam wanting to try out and I am tailoring my games to be primarily a fun and engaging gameplay loop which can be played for an extended period of time
+This is one of the better games I have made and it was featured here (https://www.youtube.com/watch?v=vpWqiLjZDbE (1:06)) I learnt what is successful in game jams which I believe at the time of writing this is to be fun and engaging gameplay loops, which is what I went into this game jam wanting to try out and I am tailoring my games to be primarily a fun and engaging gameplay loop which can be played for an extended period of time
 
 _________________________________________________________________________________________________________________________________________________________________________
 
