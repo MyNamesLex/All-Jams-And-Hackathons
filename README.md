@@ -16,8 +16,6 @@ GMTK 2021 -> https://lexingto.itch.io/ted-and-rosie
 
 GJL Game Parade Summer 2021 -> https://lexingto.itch.io/viable (featured here https://www.youtube.com/watch?v=vpWqiLjZDbE 1:06)
 
-TriJam #133: The 3 Hour game jam -> https://lexingto.itch.io/keep-it-up
-
 (COLLAB) Low Effort Jam #13 -> https://lexingto.itch.io/delivery-driver
 
 Most Recent
