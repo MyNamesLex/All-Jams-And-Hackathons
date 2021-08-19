@@ -49,7 +49,7 @@ ________________________________________________________________________________
 
 (COLLAB) Low Effort Jam #13 -> https://lexingto.itch.io/delivery-driver 
 
-We treated this as a 48 hour game jam as that fitted our schedules the best and the person I was working with on this was doing the programming, because I wanted to better and practice my 3D modelling and audio abilities, he and I both wanted to learn how car physics work so he watched a youtube tutorial and figured it out and wrote a script following the tutorial. On the second day, he had some unforeseen issues he had to deal with in real life so I had to do the majority of the programming when I was not expecting too so it was thrown together last second and I could not refine it as much as I wanted to so it turned into a semi complete game. 
+We treated this as a 48 hour game jam as that fitted our schedules the best and the person I was working with on this was doing the programming, because I wanted to better and practice my 3D modelling and audio abilities, he and I both wanted to learn how car physics work so he watched a youtube tutorial and figured it out and wrote a script following the tutorial. On the second day, he had some unforeseen issues he had to deal with in real life so I did the majority of the programming when I was not expecting too so it was thrown together last second and I could not refine it as much as I wanted to so it turned into a semi complete jam game. 
 
 _________________________________________________________________________________________________________________________________________________________________________
 
