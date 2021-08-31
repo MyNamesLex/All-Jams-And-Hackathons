@@ -1,6 +1,6 @@
 # All-Jam-Games
 A Collection of all Jams I have took part In with the associated games:
-![MyNamesLex's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyNamesLex&theme=dark&show_icons=true)
+
 Oldest
 
 _________________________________________________________________________________________________________________________________________________________________________
