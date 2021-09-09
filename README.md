@@ -57,6 +57,8 @@ Brackeys Game Jam 2021.2 -> https://lexingto.itch.io/neon-drive
 
 This was a really good game for me, I wanted to become more independant in me making games, as in, I wanted to the whole process myself from making models, music and sound effects all by myself which I was unsuccesful in but I did the majoirty of the assets. I also wanted to explore more aspects of unity which is why the game looks the way it does. I wanted to look into a bunch of different things in Unity. I believe I was successful in making a good game too and I am proud of my work.
 
+I have also learned the importance of being able to customize game more (editing mouse sensitivity, enabling/disabling motion blur) to lower the bar to entry for my games in the future and give a more enjoyable experience all around.
+
 _________________________________________________________________________________________________________________________________________________________________________
 
 Most Recent
