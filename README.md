@@ -63,6 +63,8 @@ ________________________________________________________________________________
 
 GJL Game Parade Fall 2021 -> https://lexingto.itch.io/lock-and-key
 
+I wanted to make a different type of game with a different change of pace. I aimed to make a game where you can go at your own pace with no real objective, more of a sandbox and I think I accomplished this goal with this game.
+
 _________________________________________________________________________________________________________________________________________________________________________
 
 Most Recent
