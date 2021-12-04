@@ -1,4 +1,7 @@
 # All-Jam-Games
+
+Total Jams Participated: 10
+
 A Collection of all Jams I have took part In with the associated games:
 
 Oldest
