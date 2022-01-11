@@ -70,7 +70,7 @@ I wanted to make a different type of game with a different change of pace. I aim
 
 _________________________________________________________________________________________________________________________________________________________________________
 
-Grads In Games Search For A Star 2022 -> (To be uploaded)
+Grads In Games Search For A Star 2022 -> https://mynameslex.itch.io/dicesweeper
 
 I wanted to take part in this as it was a unique jam where you are given a starter project to continue and improve aswell as it being a much longer game jam then the one's I have done previous giving me time to do more of a full project
 
