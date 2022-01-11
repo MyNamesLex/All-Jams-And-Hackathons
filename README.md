@@ -1,6 +1,6 @@
 # All-Jam-Games
 
-Total Jams Participated: 10
+Total Jams Participated: 11
 
 A Collection of all Jams I have took part In with the associated games:
 
@@ -69,5 +69,9 @@ GJL Game Parade Fall 2021 -> https://mynameslex.itch.io/lock-and-key
 I wanted to make a different type of game with a different change of pace. I aimed to make a game where you can go at your own pace with no real objective, more of a sandbox and I think I accomplished this goal with this game.
 
 _________________________________________________________________________________________________________________________________________________________________________
+
+Grads In Games Search For A Star 2022 -> (To be uploaded)
+
+I wanted to take part in this as it was a unique jam where you are given a starter project to continue and improve aswell as it being a much longer game jam then the one's I have done previous giving me time to do more of a full project
 
 Most Recent
