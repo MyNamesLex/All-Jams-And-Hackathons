@@ -91,4 +91,13 @@ What I learned from this is to not tunnel vision on one key aspect of the game t
 
 _________________________________________________________________________________________________________________________________________________________________________
 
+(Made with the Unity Game Engine using C#)
+
+Grads In Games Search For A Star 2022 -> https://mynameslex.itch.io/dicesweeper
+
+I wanted to take part in this as it was a unique jam where you are given a starter project to continue and improve aswell as it being a much longer game jam then the ones I have done previous which gives me time to do more of a full project
+
+_________________________________________________________________________________________________________________________________________________________________________
+
+
 Most Recent
