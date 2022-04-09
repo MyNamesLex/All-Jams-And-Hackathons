@@ -94,6 +94,7 @@ ________________________________________________________________________________
 (Made with the Unity Game Engine using C#)
 
 Grads In Games Search For A Star 2022 -> https://mynameslex.itch.io/dicesweeper
+Grads In Games Search For A Star 2022 Repository -> https://github.com/MyNamesLex/Search-For-A-Star-2022
 
 I wanted to take part in this as it was a unique jam where you are given a starter project to continue and improve aswell as it being a much longer game jam then the ones I have done previous which gives me time to do more of a full project
 
