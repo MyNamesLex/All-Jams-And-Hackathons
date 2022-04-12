@@ -1,6 +1,6 @@
 # All-Jam-Games
 
-Total Jams Participated: 11
+Total Jams Participated: 12
 
 A Collection of all Jams I have took part In with the associated games:
 
@@ -100,5 +100,13 @@ I wanted to take part in this as it was a unique jam where you are given a start
 
 _________________________________________________________________________________________________________________________________________________________________________
 
+
+(Made with the Unity Game Engine using C#)
+
+Black And White Jam 8 -> https://yayacob.itch.io/sleeping-on-the-job
+
+This game is a bit of a mess due to some unfortunate circumstances, as he is known on itch.io, Yacob had to leave his computer for three days at the start of the jam and that resulted in me doing the game jam solo for 3 days, I did all the main functionality for the game and withheld myself to not do the majority of the game because I wanted Yacob to take part in the game also and he did aswell. After he returned back to his computer my internet went offline for the remainder of the Jam and I couldn't really help Yacob, this resulted in us not being able to produce a proper game for the game jam and it resulted in this game
+
+_________________________________________________________________________________________________________________________________________________________________________
 
 Most Recent
