@@ -51,7 +51,7 @@ ________________________________________________________________________________
 
 GJL Game Parade Summer 2021 -> https://mynameslex.itch.io/viable
 
-This is one of the better games I have made and it was featured here (https://www.youtube.com/watch?v=vpWqiLjZDbE (1:06)) I learnt what is successful in game jams which I believe at the time of writing this is to be fun and engaging gameplay loops, which is what I went into this game jam wanting to try out and I am tailoring my games to be primarily a fun and engaging gameplay loop which can be played for an extended period of time.
+This is one of the better games I have made and it was featured <a href="https://youtu.be/vpWqiLjZDbE?t=66">here</a>. I learnt what is successful in game jams which I believe at the time of writing this is to be fun and engaging gameplay loops, which is what I went into this game jam wanting to try out and I am tailoring my games to be primarily a fun and engaging gameplay loop which can be played for an extended period of time.
 
 _________________________________________________________________________________________________________________________________________________________________________
 
@@ -97,6 +97,8 @@ Grads In Games Search For A Star 2022 -> https://mynameslex.itch.io/dicesweeper
 Grads In Games Search For A Star 2022 Repository -> https://github.com/MyNamesLex/Search-For-A-Star-2022
 
 I wanted to take part in this as it was a unique jam where you are given a starter project to continue and improve aswell as it being a much longer game jam then the ones I have done previous which gives me time to do more of a full project
+
+Since this was a longer jam and I was given very detailed feedback, I uploaded the source code and gave a detailed summary of what I have learned from this on the Search For A Star 2022 repository which can be found <a href="https://github.com/MyNamesLex/Search-For-A-Star-2022">here</a> 
 
 _________________________________________________________________________________________________________________________________________________________________________
 
