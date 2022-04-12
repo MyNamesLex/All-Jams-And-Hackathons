@@ -110,7 +110,7 @@ Black And White Jam 8 -> https://yayacob.itch.io/sleeping-on-the-job
 
 This game is a bit of a mess due to some unfortunate circumstances, as he is known on itch.io, Yacob had to leave his computer for three days at the start of the jam and that resulted in me doing the game jam solo for 3 days, I did all the main functionality for the game and withheld myself to not do the majority of the game because I wanted Yacob to take part in the game also and he did aswell. 
 
-After he returned back to his computer my internet went offline for the remainder of the Jam and I couldn't really help Yacob with the game manually and had to talk to him to help in any way I really could. This resulted in us not being able to produce a proper game for the game jam and it resulted in this game which with the circumstances, turned out pretty good in my opinion.
+After he returned back to his computer my internet went offline for the remainder of the Jam and I couldn't really help Yacob with the game manually and had to talk to him to help in any way I really could while he continued programming and working on other aspects of the game. This resulted in us not being able to produce a proper game for the game jam and it resulted in this game which with the circumstances, turned out pretty good in my opinion.
 
 _________________________________________________________________________________________________________________________________________________________________________
 
