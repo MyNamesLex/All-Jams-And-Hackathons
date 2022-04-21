@@ -106,11 +106,13 @@ ________________________________________________________________________________
 
 (Made with the Unity Game Engine using C#)
 
-Black And White Jam 8 -> https://yayacob.itch.io/sleeping-on-the-job
+(COLLAB) Black And White Jam 8 -> https://yayacob.itch.io/sleeping-on-the-job
 
 This game is a bit of a mess due to some unfortunate circumstances, as he is known on itch.io, Yacob had to leave his computer for three days at the start of the jam and that resulted in me doing the game jam solo for 3 days, I did all the main functionality for the game and withheld myself to not do the majority of the game because I wanted Yacob to take part in the game also and he did aswell. 
 
 After he returned back to his computer my internet went offline for the remainder of the Jam and I couldn't really help Yacob with the game manually and had to talk to him to help in any way I really could since he is new to game development. He continued programming new aspects of the game and understanding and altering code I made whilst also working on other aspects of the game. This resulted in us not being able to produce a proper game for the game jam.
+
+I feel the way I handled the situation of not being able to properly work on this together was good because I communicated with him what needed to be done but all te things that i communcated to him (explain to the player how to play, what's going on, how to win etc) weren't properly implemented or weren't at all implemented. This is no fault of his own as he is very new to Unity but this was a good experience for me to have on how to deal with roadblocks like this so I'm better equipped and experienced for the future if this or something similar to this happens again.
 
 _________________________________________________________________________________________________________________________________________________________________________
 
