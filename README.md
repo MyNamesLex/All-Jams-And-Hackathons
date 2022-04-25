@@ -1,6 +1,6 @@
 # All-Jam-Games
 
-Total Jams Participated: 12
+Total Jams Participated: 13
 
 A Collection of all Jams I have took part In with the associated games:
 
@@ -103,7 +103,6 @@ Since this was a longer jam and I was given very detailed feedback, I uploaded t
 
 _________________________________________________________________________________________________________________________________________________________________________
 
-
 (Made with the Unity Game Engine using C#)
 
 (COLLAB) Black And White Jam 8 -> https://yayacob.itch.io/sleeping-on-the-job
@@ -115,5 +114,12 @@ After he returned back to his computer my internet went offline for the remainde
 I feel the way I handled the situation of not being able to properly work on this together was good because I communicated with him what needed to be done but all te things that i communcated to him (explain to the player how to play, what's going on, how to win etc) weren't properly implemented or weren't at all implemented. This is no fault of his own as he is very new to Unity but this was a good experience for me to have on how to deal with roadblocks like this so I'm better equipped and experienced for the future if this or something similar to this happens again.
 
 _________________________________________________________________________________________________________________________________________________________________________
+
+(Made with the Unity Game Engine using C#)
+
+(COLLAB) Bullet Hell Jam 2022 -> https://mynameslex.itch.io/boost
+
+_________________________________________________________________________________________________________________________________________________________________________
+
 
 Most Recent
