@@ -119,7 +119,9 @@ ________________________________________________________________________________
 
 (COLLAB) Bullet Hell Jam 2022 -> https://mynameslex.itch.io/boost
 
-This is a different type of game then what I usually make but I really like this game, I collaborated with the same people from the previous game jam but this went drastically better as there was not any technical issues to inhibit our ability to collaborate. I primarily focused on ensuring that the game is easy to learn as a few games I have made for game jams in the past struggled with this and I believe I managed to achieve this with this game.
+This is a different type of game then what I usually make but I really like this game, I collaborated with the same people from the previous game jam but this went drastically better as there was not any technical issues to inhibit our ability to collaborate. 
+
+I primarily focused on ensuring that the game is easy to learn as a few games I have made for game jams in the past struggled with this and I believe I managed to achieve this with this game.
 
 _________________________________________________________________________________________________________________________________________________________________________
 
