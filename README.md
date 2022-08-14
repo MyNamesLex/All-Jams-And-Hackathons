@@ -133,4 +133,10 @@ I decided I wanted to try out using procedural generation for this game jam and 
 
 _________________________________________________________________________________________________________________________________________________________________________
 
+(Made with the Crayta Game Engine using Lua)
+
+Crayta $50,000 Build Jam -> https://mynameslex.itch.io/crayta-population-metrics-blueprint
+
+I decided I wanted to try out different game engine's and to just try something new so I decided that this jam would be a good idea because it is a build jam so i'm making in my case a technical asset for other people using Crayta to use, also it's in an engine i was originally completly unfamiliar with and uses a language that I don't use regularly so I thought this would be the best jam for me to participate in 
+
 Most Recent
