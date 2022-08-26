@@ -1,4 +1,4 @@
-# All-Jam-Games
+# All-Jams
 
 Total Jams Participated: 15
 
