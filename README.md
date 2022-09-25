@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 (COLLAB) Cozy Fall Jam 2022 -> https://mynameslex.itch.io/imposter
 
-I wanted to do a jam with Unreal Engine 5 because I wanted to use my new found knowledge from developing Unreal Engine 5 tech demos which can be found <a href="https://github.com/MyNamesLex/Small-Unreal-Engine-5-Tech-Demos">here</a>. I decided to collaborate with a friend of mine in this jam as this is my first time doing a jam using Unreal Engine 5 and having help from another person who would prove to be very helpful. My friend was very new to Unreal Engine 5 and had to download it to use in this jam and teach him the fundamentals of Unreal Engine 5 but he was very helpful with the programming and did the level design for the first level too.
+I wanted to do a jam with Unreal Engine 5 because I wanted to use my new found knowledge from developing Unreal Engine 5 tech demos which can be found <a href="https://github.com/MyNamesLex/Small-Unreal-Engine-5-Tech-Demos">here</a>. I decided to collaborate with a friend of mine in this jam as this is my first time doing a jam using Unreal Engine 5 and having help from another person would prove to be very helpful. My friend was very new to Unreal Engine 5 and had to download it to use in this jam, I also had to teach him the fundamentals of Unreal Engine 5 but he was very helpful with the programming after I taught him the basics. He also did the level design for the first level too.
 
 _________________________________________________________________________________________________________________________________________________________________________
 
