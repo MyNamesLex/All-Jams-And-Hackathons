@@ -4,7 +4,7 @@ Total Jams Participated: 16
 
 Total Hackathons Participated: 1
 
-A Collection of all Jams I have took part In with the associated games:
+A Collection of all Jams and Hackathons I have took part In with the associated games:
 
 Most Recent 
 
