@@ -1,5 +1,7 @@
 # All Jams And Hackathons
 
+A Collection of all Jams and Hackathons I have took part In with the associated games:
+
 Total Jams Participated: 16
 
 Total Hackathons Participated: 1
@@ -12,8 +14,7 @@ Unreal Enigne 5 - 1
 
 Crayta - 1
 
-A Collection of all Jams and Hackathons I have took part In with the associated games:
-
+_________________________________________________________________________________________________________________________________________________________________________
 Most Recent 
 
 _________________________________________________________________________________________________________________________________________________________________________
@@ -166,5 +167,6 @@ Brackeys Game Jam 2021.1 ->  https://mynameslex.itch.io/dog-finder
 My first public game jam I did and I went with a basic platformer to have a submission for the jam.
 
 _________________________________________________________________________________________________________________________________________________________________________
-
 Oldest
+
+_________________________________________________________________________________________________________________________________________________________________________
