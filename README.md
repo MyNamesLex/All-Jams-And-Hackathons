@@ -2,7 +2,7 @@
 
 A Collection of all Jams and Hackathons I have took part In with the associated games:
 
-Total Jams Participated: 17
+Total Jams Participated: 18
 
 Total Hackathons Participated: 1
 
@@ -10,7 +10,7 @@ Engines:
 
 Unity - 15
 
-Unreal Enigne 5 - 2
+Unreal Enigne 5 - 3
 
 Crayta - 1
 
@@ -21,10 +21,17 @@ ________________________________________________________________________________
 
 (Made with Unreal Engine 5 using C++ and Blueprints)
 
+Brackeys Game Jam 2023.1 -> https://mynameslex.itch.io/puzzles
+
+I learned a lot from this game jam, I developed my workflow further and continued to develop my skills within Unreal Engine 5 and continued expanded my skillset and familiarity within Unreal Engine 5.
+
+_________________________________________________________________________________________________________________________________________________________________________
+
+(Made with Unreal Engine 5 using C++ and Blueprints)
+
 Boss Rush Jam 2023 -> https://mynameslex.itch.io/boss-fight
 
-I wanted to use Unreal Engine 5 more because I enjoyed using it for the last game jam so I developed a game so I can expand on my skillset within this engine more and learn new concepts. I learned a lot from developing this game, especially on the C++ side of Unreal Engine 5 and I rather like this game.
-
+I wanted to use Unreal Engine 5 more because I enjoyed using it for the last game jam so I developed a game so I can expand on my skillset within this engine more and learn new concepts. I learned a lot from developing this game, especially on the C++ side of Unreal Engine 5 and I rather like this game more for the skills and concepts I developed while making this game.
 
 _________________________________________________________________________________________________________________________________________________________________________
 
