@@ -23,7 +23,7 @@ ________________________________________________________________________________
 
 Brackeys Game Jam 2023.1 -> https://mynameslex.itch.io/puzzles
 
-I learned a lot from this game jam, I developed my workflow further and continued to develop my skills within Unreal Engine 5 and continued expanded my skillset and familiarity within Unreal Engine 5. However, I made an error in not allowing the graphics to be configured by the player and thus caused some people to have low FPS or unable to play it.
+I learned a lot from this game jam, I developed my workflow further and continued to develop my skills within Unreal Engine 5 and continued expanded my skillset and familiarity within Unreal Engine 5. However, I made an error in not allowing the graphics to be configured by the player and thus caused some people to have low FPS and/or unable to play it.
 
 _________________________________________________________________________________________________________________________________________________________________________
 
