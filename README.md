@@ -2,7 +2,7 @@
 
 A Collection of all Jams and Hackathons I have took part In with the associated games:
 
-Total Jams Participated: 18
+Total Jams Participated: 19
 
 Total Hackathons Participated: 1
 
@@ -10,12 +10,26 @@ Engines:
 
 Unity - 15
 
-Unreal Engine 5 - 3
+Unreal Engine 5 - 4
 
 Crayta - 1
 
 _________________________________________________________________________________________________________________________________________________________________________
 Most Recent 
+
+(Made with Unreal Engine 5 using C++ and Blueprints)
+
+Brackeys Game Jam 2024.1 -> https://mynameslex.itch.io/gravity-shift
+
+I learned a lot from this game jam, I used C++ Interfaces to allow for easier control over what can be accessed by levers and what can be accessed by pressure plates, using polymorphism so it always calls the same function on those interfaces, so when a lever is pulled it will always call whatever object i decide to give that specific lever access to through a variable, on that object it will have the C++ interface for levers so it will call the "lever open" function. Same goes for pressure plates. This way means that I can easily make new objects for either levers or pressure plates to interact with easily by making that object implement that specific interface.
+
+_________________________________________________________________________________________________________________________________________________________________________
+
+(Made with Unreal Engine 5 using C++ and Blueprints)
+
+Brackeys Game Jam 2023.1 -> https://mynameslex.itch.io/puzzles
+
+I learned a lot from this game jam, I developed my workflow further and continued to develop my skills within Unreal Engine 5 and continued expanded my skillset and familiarity within Unreal Engine 5. However, I made an error in not allowing the graphics to be configured by the player and thus caused some people to have low FPS and/or unable to play it.
 
 _________________________________________________________________________________________________________________________________________________________________________
 
