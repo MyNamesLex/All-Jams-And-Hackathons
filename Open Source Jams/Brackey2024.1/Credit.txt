@@ -1,0 +1,43 @@
+UE5 Starter Content (Only Visual and Audio Assets Used)
+
+Lever - "Old lever" (https://skfb.ly/6CTnH) by Gunnar Correa is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+Pressure Plate MODIFIED - "Pressure Plate Base" () by sondre_groterud is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+Arrows - "Direction Arrow" (https://skfb.ly/ozHGW) by Alihan is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+Door - "Door (wood)" (https://skfb.ly/696o6) by DiggenDigga is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+Reset Level Button - "Low Poly Emergency Button" (https://skfb.ly/6Y69z) by ZeroCardinal is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+Megascans
+
+Infinity Blade: Effects - UE5 MarketPlace
+
+AmbientOutsideNoise and AmbientInteriorNoise - Sound Effect from Pixabay
+
+Wall Fall SFX - https://soundbible.com/1987-Rockslide-Small.html
+
+Lever SFX - https://freesound.org/people/ShadowSilhouette/sounds/489725/
+
+Pressure Plate SFX - https://freesound.org/people/proolsen/sounds/466272/
+
+Door Open SFX - https://freesound.org/people/JapanYoshiTheGamer/sounds/648818/
+
+Spring SFX - https://soundbible.com/1120-Bounce.html
+
+Click SFX - https://freesound.org/people/Sheyvan/sounds/475188/
+
+Sphere Hit Sounds - https://soundbible.com/1626-Ball-Bounce.html
+
+Keyboard Icons - https://illugion.itch.io/pixel-keyboard-lite
+
+Foliage and Trees - Quixel Bridge
+
+Decorations - Decoration Pack 1 Unreal MarketPlace
+
+Bird - "Bird Animations Alex" (https://skfb.ly/oAOSw) by ahitch3 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+Font - https://www.dafont.com/luna-2.font?l[]=10&l[]=1
+
+Remixed Mouse Click Sprites - https://greenpixels.itch.io/pixel-art-asset-3
