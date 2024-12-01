@@ -19,7 +19,7 @@ Most Recent:
 
 (Made with Unity using C#)
 
-1-Button Jam 2024 -> https://itch.io/jam/1-button-jam-2024/rate/3136349
+1-Button Jam 2024 -> https://mynameslex.itch.io/jetpack-spaceman
 
 I wanted to make a basic 2D, retro arcade style game for this game jam. I was heavily limited given the nature of this game jam being you're only allowed to use a single button as the input for the game but I believed I managed to pull it off without it being to much of a hinderance
 _________________________________________________________________________________________________________________________________________________________________________
