@@ -35,7 +35,7 @@ ________________________________________________________________________________
 
 Brackeys Game Jam 2024.1 -> https://mynameslex.itch.io/gravity-shift
 
-Description:
+#### Description:
 I learned a lot from this game jam, I used C++ Interfaces to allow for easier control over what can be accessed by levers and what can be accessed by pressure plates, using polymorphism so it always calls the same function on those interfaces, so when a lever is pulled it will always call whatever object i decide to give that specific lever access to through a variable, on that object it will have the C++ interface for levers so it will call the "lever open" function. Same goes for pressure plates. This way means that I can easily make new objects for either levers or pressure plates to interact with easily by making that object implement that specific interface.
 
 I have found that some people had performance issues, I thought I covered this issue by using the <a href="https://docs.unrealengine.com/5.0/en-US/BlueprintAPI/Settings/RunHardwareBenchmark">Run Hardware Benchmark</a> node and then using the <a href="https://docs.unrealengine.com/4.26/en-US/BlueprintAPI/Settings/ApplyHardwareBenchmarkResults">Apply Hardware Benchmark Results</a> node on every level's BeginPlay node, however this seems to of not been enough according to some of the comments I recieved unfortunatly. What I would do in the future is have more in depth settings or maybe have graphical settings automatically be applied if the player's FPS is not at 60.
