@@ -17,7 +17,7 @@ Crayta - 1
 _________________________________________________________________________________________________________________________________________________________________________
 ### Most Recent: 
 
-1-Button Jam 2024 -> https://mynameslex.itch.io/jetpack-spaceman
+### <a href="https://mynameslex.itch.io/jetpack-spaceman">1-Button Jam 2024</a>
 
 #### Description:
 I wanted to make a basic 2D, retro arcade style game for this game jam. I was heavily limited given the nature of this game jam being you're only allowed to use a single button as the input for the game but I believed I managed to pull it off without it being to much of a hinderance
