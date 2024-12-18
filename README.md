@@ -35,98 +35,98 @@ ________________________________________________________________________________
 
 Brackeys Game Jam 2024.1 -> https://mynameslex.itch.io/gravity-shift
 
-#### Description:
+### Description:
 I learned a lot from this game jam, I used C++ Interfaces to allow for easier control over what can be accessed by levers and what can be accessed by pressure plates, using polymorphism so it always calls the same function on those interfaces, so when a lever is pulled it will always call whatever object i decide to give that specific lever access to through a variable, on that object it will have the C++ interface for levers so it will call the "lever open" function. Same goes for pressure plates. This way means that I can easily make new objects for either levers or pressure plates to interact with easily by making that object implement that specific interface.
 
 I have found that some people had performance issues, I thought I covered this issue by using the <a href="https://docs.unrealengine.com/5.0/en-US/BlueprintAPI/Settings/RunHardwareBenchmark">Run Hardware Benchmark</a> node and then using the <a href="https://docs.unrealengine.com/4.26/en-US/BlueprintAPI/Settings/ApplyHardwareBenchmarkResults">Apply Hardware Benchmark Results</a> node on every level's BeginPlay node, however this seems to of not been enough according to some of the comments I recieved unfortunatly. What I would do in the future is have more in depth settings or maybe have graphical settings automatically be applied if the player's FPS is not at 60.
 
-Key Challenges:
+### Key Challenges:
 The key challenges I face was figuring out how C++ interfaces work within Unreal Engine 5
 
-Tools&Tech Used:
+### Tools&Tech Used:
 Made with Unreal Engine 5 using C++ and Blueprints
 
-Impact on me:
+### Impact on me:
 I gained skills in learning how C++ interfaces work within Unreal Engine 5 and improving Unreal Engine 5 workflow using C++ interfaces. I also gained puzzle crafting skills with designing the puzzles for this game.
 
 _________________________________________________________________________________________________________________________________________________________________________
 
 Brackeys Game Jam 2023.1 -> https://mynameslex.itch.io/runjumpshoot
 
-Description:
+### Description:
 I learned a lot from this game jam, I developed my workflow further and continued to develop my skills within Unreal Engine 5 and continued expanded my skillset and familiarity within Unreal Engine 5. However, I made an error in not allowing the graphics to be configured by the player and thus caused some people to have low FPS and/or unable to play it.
 
-Key Challenges:
+### Key Challenges:
 Learning the workings of Unreal Engine 5
 
-Tools&Tech Used:
+### Tools&Tech Used:
 Made with Unreal Engine 5 using C++ and Blueprints
 
-Impact on me:
+### Impact on me:
 Learning more about Unreal Engine 5 and improving my familiarity with the engine
 
 _________________________________________________________________________________________________________________________________________________________________________
 
 Boss Rush Jam 2023 -> https://mynameslex.itch.io/boss-fight
 
-Description:
+### Description:
 I wanted to use Unreal Engine 5 more because I enjoyed using it for the last game jam so I developed a game so I can expand on my skillset within this engine more and learn new concepts. I learned a lot from developing this game, especially on the C++ side of Unreal Engine 5 and I rather like this game more for the skills and concepts I developed while making this game.
 
-Key Challenges:
+### Key Challenges:
 Learning the workings of Unreal Engine 5
 
-Tools&Tech Used:
+### Tools&Tech Used:
 Made with Unreal Engine 5 using C++ and Blueprints
 
-Impact on me:
+### Impact on me:
 Learning more about Unreal Engine 5 and improving my familiarity with the engine
 
 _________________________________________________________________________________________________________________________________________________________________________
 
 (COLLAB) Cozy Fall Jam 2022 -> https://mynameslex.itch.io/imposter
 
-Description:
+### Description:
 I wanted to do a jam with Unreal Engine 5 because I wanted to use my new found knowledge from developing Unreal Engine 5 tech demos which can be found <a href="https://github.com/MyNamesLex/Small-Unreal-Engine-5-Tech-Demos">here</a>. I decided to collaborate with a friend of mine in this jam as this is my first time doing a jam using Unreal Engine 5 and having help from another person would prove to be very helpful. My friend was very new to Unreal Engine 5 and had to download it to use in this jam, I also had to teach him the fundamentals of Unreal Engine 5 but he was very helpful with the programming after I taught him the basics. He also did the level design for the first level too.
 
-Key Challenges:
+### Key Challenges:
 Teaching another person Unreal Engine 5 and how to use the game engine at the fundamental level.
 
-Tools&Tech Used:
+### Tools&Tech Used:
 Made with Unreal Engine 5 using C++ and Blueprints
 
-Impact on me:
+### Impact on me:
 Improving my knowledge of the fundamentals of Unreal Engine 5 by having to teach it to someone else.
 
 _________________________________________________________________________________________________________________________________________________________________________
 
 Crayta $50,000 Build Jam -> https://mynameslex.itch.io/crayta-population-metrics-blueprint
 
-Description:
+### Description:
 I wanted to try out a different game engine to just try something new. I decided this jam would be a good idea because it is a build jam making a technical asset for other people using Crayta to use. Crayta is an engine I was originally completely unfamiliar with and uses a language that I don't use regularly so I thought this would be a good challenge.
 
-Key Challenges:
+### Key Challenges:
 Learning the workings of an engine completely unfamiliar to me and having to develop a tool for it that is easy to use and pick up.
 
-Tools&Tech Used:
+### Tools&Tech Used:
 Made with the Crayta Game Engine using Lua
 
-Impact on me:
+### Impact on me:
 Improving my fundamental skills in using game engines by having to learn a game engine I was not familiar with quickly.
 
 _________________________________________________________________________________________________________________________________________________________________________
 
 GMTK 2022 -> https://mynameslex.itch.io/cubeshaker
 
-Description:
+### Description:
 I decided I wanted to try out using procedural generation for this game jam and I believe I have done quite well with accomplishing this within the 50 hour submission window.
 
-Key Challenges:
+### Key Challenges:
 Learning procedural generation and making a game using it.
 
-Tools&Tech Used:
+### Tools&Tech Used:
 Made with the Unity Game Engine using C#
 
-Impact on me:
+### Impact on me:
 Figured out how procedural general works and developing a game with my new found skill.
 
 _________________________________________________________________________________________________________________________________________________________________________
