@@ -217,7 +217,7 @@ ________________________________________________________________________________
 
 ### <a href="https://mynameslex.itch.io/great-uni-hack-2021-submission">(COLLAB) Great Uni Hack 2021</a>
 
-#### (PASSWORD -> 6YU5Q5oNjyLCMJnNx%aQ!bLdhQDKe#9fP*vc8dsx3@EXTnneX)
+### (PASSWORD -> 6YU5Q5oNjyLCMJnNx%aQ!bLdhQDKe#9fP*vc8dsx3@EXTnneX)
 
 #### Description:
 Not strictly a game jam but this was in essence a game jam as we were given a theme and we decided to make a game with the theme so it's basically a game jam. This game is a bit of a mess but this was a really fun experience, the majority of my teammates have never touched Unity before and the other was a first year game dev student. So what I decided to do was become the project leader as I have found throughout my University experience and game jam experience that I like being in a managerial role / Project leader making the decisions on what the game is going to be and what the next step is. You can find more of a breakdown on how this whole experience was for me in the link provided along with the password to access the page
