@@ -140,6 +140,7 @@ I primarily focused on ensuring that the game is easy to learn as a few games I 
 
 #### Key Challenges:
 Ensuring the game is easy to pick up and play
+
 Making a game in a genre I am not very familiar with
 
 #### Tools&Tech Used:
@@ -147,6 +148,7 @@ Made with the Unity Game Engine using C#
 
 #### Impact on me:
 Improving my team collaboration skills
+
 Learnt how to develop a bullet hell style game
 
 _________________________________________________________________________________________________________________________________________________________________________
@@ -162,7 +164,9 @@ I feel the way I handled the situation of not being able to properly work on thi
 
 #### Key Challenges:
 Technical Issues with Internet connectivity
+
 Collaborator being not able to work on the game for 3 days
+
 Collaborating with a new game developer without being able to have a stable internet connection so I couldn't help the new developer directly
 
 #### Tools&Tech Used:
@@ -170,6 +174,7 @@ Made with the Unity Game Engine using C#
 
 #### Impact on me:
 Improved team skills
+
 Improved problem solving skills
 
 _________________________________________________________________________________________________________________________________________________________________________
@@ -185,6 +190,7 @@ Since this was a longer jam and I was given very detailed feedback, I uploaded t
 
 #### Key Challenges:
 Long term project
+
 Starting off with one game and changing the entire game into a different game
 
 #### Tools&Tech Used:
@@ -192,7 +198,9 @@ Made with the Unity Game Engine using C#
 
 #### Impact on me:
 Improved debugging other's code
+
 Improved ability to understand other people's code
+
 Improved ability refactoring other people's code
 
 _________________________________________________________________________________________________________________________________________________________________________
@@ -230,7 +238,9 @@ Made with the Unity Game Engine using C#
 
 #### Impact on me:
 Improving collaborative skills
+
 Deepening my understanding of Unity by having to teach it to others.
+
 Improving managerial skills
 
 _________________________________________________________________________________________________________________________________________________________________________
@@ -244,6 +254,7 @@ I have also learned the importance of being able to customize game more (editing
 
 #### Key Challenges:
 Making all the assets myself
+
 Learning tools used to make sound effects, background music and 3D models
 
 #### Tools&Tech Used:
@@ -251,6 +262,7 @@ Made with the Unity Game Engine using C#
 
 #### Impact on me:
 Learning customization
+
 Learning tools used to make sound effects, background music and 3D models
 
 _________________________________________________________________________________________________________________________________________________________________________
@@ -262,6 +274,7 @@ We treated this as a 48 hour game jam as that fitted our schedules the best and 
 
 #### Key Challenges:
 Learning car physics
+
 Collaborator having to leave on the 2nd day of the jam
 
 #### Tools&Tech Used:
@@ -317,6 +330,7 @@ Made with the Unity Game Engine using C#
 
 #### Impact on me:
 Tenacity with finding a fun game
+
 Improved skills with Unity
 
 _________________________________________________________________________________________________________________________________________________________________________
@@ -334,6 +348,7 @@ Made with the Unity Game Engine using C#
 
 #### Impact on me:
 Improved skills in Unity
+
 Time management
 
 _________________________________________________________________________________________________________________________________________________________________________
@@ -351,6 +366,7 @@ Made with the Unity Game Engine using C#
 
 #### Impact on me:
 Improved skills in Unity
+
 Collaborating with others
 
 _________________________________________________________________________________________________________________________________________________________________________
@@ -368,6 +384,7 @@ Made with the Unity Game Engine using C#
 
 #### Impact on me:
 Improved skills in Unity
+
 Time management
 
 _________________________________________________________________________________________________________________________________________________________________________
@@ -385,6 +402,7 @@ Made with the Unity Game Engine using C#
 
 #### Impact on me:
 Improved skills in Unity
+
 Time management
 
 _________________________________________________________________________________________________________________________________________________________________________
