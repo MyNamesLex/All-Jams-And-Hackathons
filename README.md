@@ -12,13 +12,7 @@ Unity - 16
 
 Unreal Engine 5 - 4
 
-Crayta - 1
-
-![Unity](https://img.shields.io/badge/Engine-Unity-57b9f7)
-![Lua](https://img.shields.io/badge/Language-Lua-2c2d72)
-![2D](https://img.shields.io/badge/Style-2D-green)
-![3D](https://img.shields.io/badge/Style-3D-green)
-
+Crayta - 1
 _________________________________________________________________________________________________________________________________________________________________________
 ### Most Recent: 
 
