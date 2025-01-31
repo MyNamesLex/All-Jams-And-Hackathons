@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf6549bb3ca1f724c9f7daa863e83396, type: 3}
+  m_Name: Tree2
+  m_EditorClassIdentifier: 
+  nodes:
+  - npcLine: What the HECK are you doing?!
+    responses:
+    - text: Hahahaha I know what BEANS are!
+      isGoodResponse: 0
+      nextNodeIndex: 1
+    - text: I'm doing a good job sir!
+      isGoodResponse: 1
+      nextNodeIndex: -1
+    - text: Heck me? Heck you!
+      isGoodResponse: 0
+      nextNodeIndex: 1
+  - npcLine: Were you dropped on your head as a child?!
+    responses:
+    - text: Your MOM was dropped on her head as a child!
+      isGoodResponse: 0
+      nextNodeIndex: 0
+    - text: I'm the BEAN man!
+      isGoodResponse: 0
+      nextNodeIndex: 0
+    - text: My best! I'm doing my best!
+      isGoodResponse: 1
+      nextNodeIndex: -1

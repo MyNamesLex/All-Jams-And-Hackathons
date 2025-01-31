@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29f301678301bc64d9e2c3bee41f8d74, type: 3}
+  m_Name: Level3Room
+  m_EditorClassIdentifier: 
+  blockID: 4
+  blockName: Level3Room
+  FloorMaterial: {fileID: 2100000, guid: 62b84b331e977524094b4f691d36054b, type: 2}
+  CielingMaterial: {fileID: 2100000, guid: f3055492fdb9cc44ca279a6519c39c07, type: 2}
+  WallMaterial: {fileID: 2100000, guid: 3bc63b7e062e36147a2373e996ed0bd1, type: 2}
+  decoChance: 0
+  blockType: 1
