@@ -25,17 +25,18 @@ ________________________________________________________________________________
 ![CSharp](https://img.shields.io/badge/Language-CSharp-2c2d72)
 
 #### Description:
-My team and I approached this project with the goal of creating a game that would stand out from others. We decided on a stealth based 2.5D comedy game, aiming for something unique and different. You can find a more detailed breakdown about the game in our Game Design Document, which is available through this <a href="https://drive.google.com/file/d/1Ei_aGXZpVEusOZaYVgaWNb_Wd7ryt_8h/view?usp=sharing">link</a>.
+My team and I approached this project with the goal of creating a game that would stand out from others. We decided on a stealth based 2.5D comedy game, aiming for something unique and different. You can find a more detailed breakdown about the game in our Game Design Document, which is available through this <a href="">link</a>.
 
 Overall, I'm very proud of the work I contributed. I learned a lot throughout the process, especially from the more experienced members of the team. In particular, the professional lead technical artist who helped me improve my programming skills, deepen my Unity knowledge, and become more familiar with Unity tooling.
 
 I've also uploaded the full project repo to the Open Source Jams folder in this repository.
 
 #### Key Challenges:
-Team Management
+Large Team Management [5 People]
 Unity AI
 Enumberable State Machine
 Learning About Unity Tooling
+Learning Deeper Knowledge Of Unity
 
 #### Tools&Tech Used:
 Trello
