@@ -25,7 +25,7 @@ ________________________________________________________________________________
 ![CSharp](https://img.shields.io/badge/Language-CSharp-2c2d72)
 
 #### Description:
-My team and I approached this project with the goal of creating a game that would stand out from others. We decided on a stealth based 2.5D comedy game, aiming for something unique and different. You can find a more detailed breakdown about the game in our Game Design Document, which is available through this <a href="">link</a>.
+My team and I approached this project with the goal of creating a game that would stand out from others. We decided on a stealth based 2.5D comedy game, aiming for something unique and different. You can find a more detailed breakdown about the game in our Game Design Document, which is available through this <a href="https://github.com/MyNamesLex/All-Jams-And-Hackathons/blob/main/Open%20Source%20Jams/Pirate%20Software%20Game%20Jam%2016/Game%20Design%20Document.pdf">link</a>.
 
 Overall, I'm very proud of the work I contributed. I learned a lot throughout the process, especially from the more experienced members of the team. In particular, the professional lead technical artist who helped me improve my programming skills, deepen my Unity knowledge, and become more familiar with Unity tooling.
 
