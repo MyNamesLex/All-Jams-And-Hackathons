@@ -34,7 +34,7 @@ I've also uploaded the full project repo to the Open Source Jams folder in this 
 
 #### Key Challenges:
 
-Large Team Management [5 People]
+Managing A Large Team [5 People]
 
 Unity AI
 
