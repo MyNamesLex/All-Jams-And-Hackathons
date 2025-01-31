@@ -33,10 +33,15 @@ Overall, I'm very proud of the work I contributed. I learned a lot throughout th
 I've also uploaded the full project repo to the Open Source Jams folder in this repository.
 
 #### Key Challenges:
+
 Large Team Management [5 People]
+
 Unity AI
+
 Enumberable State Machine
+
 Learning About Unity Tooling
+
 Learning Deeper Knowledge Of Unity
 
 #### Tools&Tech Used:
