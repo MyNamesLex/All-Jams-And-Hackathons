@@ -2,7 +2,7 @@
 
 A Collection of all Jams and Hackathons I have took part In with the associated games:
 
-Total Jams Participated: 20
+Total Jams Participated: 21
 
 Total Hackathons Participated: 1
 
@@ -12,9 +12,39 @@ Engines:
 
 ![Unreal Engine 5](https://img.shields.io/badge/Engine-UE5-57b9f7) - 4
 
-![Crayta](https://img.shields.io/badge/Engine-Crayta-57b9f7) - 1
+![Crayta](https://img.shields.io/badge/Engine-Crayta-57b9f7) - 1
+
+
+
 _________________________________________________________________________________________________________________________________________________________________________
 ### Most Recent: 
+### <a href="https://mynameslex.itch.io/hijack">(COLLAB) Pirate Software Jam 16</a>
+
+![Unity](https://img.shields.io/badge/Engine-Unity-57b9f7)
+![3D](https://img.shields.io/badge/Style-3D-green)
+![CSharp](https://img.shields.io/badge/Language-CSharp-2c2d72)
+
+#### Description:
+My team and I approached this project with the goal of creating a game that would stand out from others. We decided on a stealth based 2.5D comedy game, aiming for something unique and different. You can find a more detailed breakdown about the game in our Game Design Document, which is available through this <a href="https://drive.google.com/file/d/1Ei_aGXZpVEusOZaYVgaWNb_Wd7ryt_8h/view?usp=sharing">link</a>.
+
+Overall, I'm very proud of the work I contributed. I learned a lot throughout the process, especially from the more experienced members of the team. In particular, the professional lead technical artist who helped me improve my programming skills, deepen my Unity knowledge, and become more familiar with Unity tooling.
+
+I've also uploaded the full project repo to the Open Source Jams folder in this repository.
+
+#### Key Challenges:
+Team Management
+Unity AI
+Enumberable State Machine
+Learning About Unity Tooling
+
+#### Tools&Tech Used:
+Trello
+Made with Unity using C#
+
+#### Impact on me:
+I gained deeper knowledge of team management, team collaboration and more knowledge of unity and c# due to working with a professional lead technical artist
+
+_________________________________________________________________________________________________________________________________________________________________________
 
 ### <a href="https://mynameslex.itch.io/jetpack-spaceman">1-Button Jam 2024</a>
 
