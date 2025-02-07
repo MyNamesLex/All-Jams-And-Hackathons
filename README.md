@@ -44,8 +44,11 @@ Learning About Unity Tooling
 
 Learning Deeper Knowledge Of Unity
 
+Using Scriptable Objects
+
 #### Tools&Tech Used:
 Trello
+
 Made with Unity using C#
 
 #### Impact on me:
