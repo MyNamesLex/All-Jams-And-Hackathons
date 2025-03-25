@@ -32,6 +32,8 @@ Overall, I'm very proud of the work I contributed. I learned a lot throughout th
 
 I've also uploaded the full project repo to the Open Source Jams folder in this repository.
 
+This game does have a few problems primarily with the player controller, camera controller, final navmesh baking and with hijacking enemies in the tutorial. The problem aspects with these mechanics were assigned to our technical artist, but they were ultimately not resolved.
+
 #### Key Challenges:
 
 Managing A Large Team [5 People]
