@@ -51,7 +51,7 @@ Using Scriptable Objects
 #### Tools&Tech Used:
 Trello
 
-Made with Unity using C#
+Made with Unity using C# and HDRP
 
 #### Impact on me:
 I gained deeper knowledge of team management, team collaboration and more knowledge of unity and c# due to working with a professional lead technical artist
